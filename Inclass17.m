@@ -3,6 +3,13 @@
 %pixel values in the original images and the second using the fourier
 %transform of the images. In both cases, display your results. 
 %% IMPORT FILES
+
+%GB comments
+1. 100
+2. 100
+overall 100
+
+
 img1= imread('img1.tif');
 img2=imread('img2.tif');
 imshow(imadjust(img1));
